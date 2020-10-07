@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\customTap\customTap\customTap\bin\Debug\netstandard2.0\customTap.deps.json
+C:\Users\Dell\source\repos\customTap\customTap\customTap\bin\Debug\netstandard2.0\customTap.dll
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\customTap.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\customTap.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\customTap.AssemblyInfo.cs
+C:\Users\Dell\source\repos\customTap\customTap\customTap\bin\Debug\netstandard2.0\ref\customTap.dll
+C:\Users\Dell\source\repos\customTap\customTap\customTap\bin\Debug\netstandard2.0\customTap.pdb
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\TabIconsPage.xaml.g.cs
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\TabIconsPage2.xaml.g.cs
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\customTap.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\customTap.dll
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\ref\customTap.dll
+C:\Users\Dell\source\repos\customTap\customTap\customTap\obj\Debug\netstandard2.0\customTap.pdb

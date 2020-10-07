@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sCS80JzlBz00U2E+2vVBeLAoJz4KNnyWJDm6ve6vEdbCKpj/MITbQ+uk4YpHwgJTA3AkfeuxdSFEgp1Tbnmndw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\customTap\\customTap\\customTap.iOS\\customTap.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
