@@ -23,7 +23,7 @@ namespace customTap
 
             });
 
-            currentPage = Children[0];
+            currentPage = Children[1];
 
             this.CurrentPageChanged += Handle_CurrentPageChanged;
 
